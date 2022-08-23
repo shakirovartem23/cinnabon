@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cake App</string>
+    <string name="str"><u>Forgot Password?</u></string>
+    <string name="str1"><u>Sign up</u></string>
+</resources>
